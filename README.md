@@ -19,19 +19,19 @@
 
 <tr>
 <td>Videojuego</td>
-<td> <a href=https://www.friv.com/>Friv</a></td>
+<td> <a href=https://www.friv.com/ target="_blank">Friv</a></td>
 <td>Pagina con videojuegos online</td>
 </tr>
 
 <tr>
 <td>creatividad</td>
-<td> <a href=https://wplace.live/ target="blank">Wplace</a></td>
+<td> <a href=https://wplace.live/ target="_blank">Wplace</a></td>
 <td>Mapa pixelado del mundo para dibujar</td>
 </tr>
 
 <tr>
 <td>Entretenimiento</td>
-<td> <a href=https://www.youtube.com/ target="blank">Youtube</a></td>
+<td> <a href=https://www.youtube.com/ target="_blank">Youtube</a></td>
 <td>sitio web donde los usuarios pueden subir, ver y compartir videos</td>
 </tr>
 </table>
