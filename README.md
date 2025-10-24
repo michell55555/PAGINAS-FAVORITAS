@@ -18,7 +18,7 @@
 
 <tr bgcolor="#4FC3F7">
 <td>Videojuego</td>
-<td> <a href=https://www.friv.com/ target="blank">Friv</a></td>
+<td> <a href=https://www.friv.com/>Friv</a></td>
 <td>Pagina con videojuegos online</td>
 </tr>
 
