@@ -9,7 +9,7 @@
 
 <img src="mimi.jpg" width="300" height="300">
 <br>
-
+<center>
 <table border="2">
 <tr>
 <th>TEMA</th>
@@ -35,6 +35,7 @@
 <td>sitio web donde los usuarios pueden subir, ver y compartir videos</td>
 </tr>
 </table>
+</center>
 
 </body>
 </HTML>
