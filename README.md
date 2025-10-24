@@ -7,7 +7,7 @@
     <h1>PAGINAS WEB FAVORITAS</h1>
 <br>
 
-<img src="mimi.jpg" width="300" height="300">
+<img src="mimi.jpg" width="350" height="300">
 <br>
 
 <table border="3">
