@@ -11,25 +11,25 @@
 <br>
 
 <table border="3">
-<tr bgcolor="#CBAACB">
+<tr>
 <th>TEMA</th>
 <th>WEB</th>
 <th>DESCRIPCION</th>
 </tr>
 
-<tr bgcolor="#4FC3F7">
+<tr>
 <td>Videojuego</td>
 <td> <a href=https://www.friv.com/>Friv</a></td>
 <td>Pagina con videojuegos online</td>
 </tr>
 
-<tr bgcolor="#4FC3F7">
+<tr>
 <td>creatividad</td>
 <td> <a href=https://wplace.live/ target="blank">Wplace</a></td>
 <td>Mapa pixelado del mundo para dibujar</td>
 </tr>
 
-<tr bgcolor="#4FC3F7">
+<tr>
 <td>Entretenimiento</td>
 <td> <a href=https://www.youtube.com/ target="blank">Youtube</a></td>
 <td>sitio web donde los usuarios pueden subir, ver y compartir videos</td>
