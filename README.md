@@ -1,6 +1,7 @@
 <HTML>
 <head>
     <title>PAGINAS WEB FAVORITAS</title>
+    <link rel="stylesheet" href="estilos.css">
 </head>
 <body bgcolor="lime">
     <h1>PAGINAS WEB FAVORITAS</h1>
