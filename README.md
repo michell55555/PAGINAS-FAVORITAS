@@ -2,7 +2,7 @@
 <head>
     <title>PAGINAS WEB FAVORITAS</title>
 </head>
-<body style="bgcolor: #FFFACD">
+<body style="background-color: #FFFACD">
     <h1>PAGINAS WEB FAVORITAS</h1>
 <br>
 
